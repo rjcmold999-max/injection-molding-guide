@@ -60,3 +60,9 @@ Small deviations in these parameters can lead to defects such as:
 Original detailed explanation:
 
 https://rjcmold.com/news/what-is-plastic-injection-molding-process/
+
+---
+
+## Related Guide
+
+[CNC Machining vs. Injection Molding for Plastic Parts](cnc-machining-vs-injection-molding-for-plastic-parts.md) — a comparison of prototyping, rapid tooling, and production tooling with cost and lead-time considerations.
