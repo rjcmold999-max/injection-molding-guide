@@ -1,13 +1,19 @@
-# Injection Molding Engineering Guides
+# Manufacturing Engineering Guides
 
-Practical engineering notes on injection molding, mold manufacturing, plastic part design, and manufacturing process selection.
+Practical engineering notes on manufacturing processes, materials, product design, and production quality.
 
-## Technical Articles
+## Manufacturing Processes
 
-- [CNC Machining vs. Injection Molding for Plastic Parts](cnc-machining-vs-injection-molding-for-plastic-parts.md) — Compare manufacturing methods, tooling investment, and production volumes.
-- [What Is Plastic Injection Molding Process?](what-is-plastic-injection-molding-process.md) — An overview of the molding cycle and key process considerations.
-- [Export Injection Mold Manufacturing: Workflow and Quality Checklist](export-injection-mold-manufacturing-process.md) — Manufacturing stages, pre-shipment checks, and engineering risks.
+- [CNC Machining vs. Injection Molding for Plastic Parts](manufacturing-processes/cnc-machining-vs-injection-molding-for-plastic-parts.md) — Process selection, tooling investment, and production volumes.
+
+## Injection Molding
+
+- [What Is Plastic Injection Molding Process?](injection-molding/what-is-plastic-injection-molding-process.md) — The molding cycle and key process considerations.
+
+## Mold Manufacturing
+
+- [Export Injection Mold Manufacturing: Workflow and Quality Checklist](mold-manufacturing/export-injection-mold-manufacturing-process.md) — Manufacturing workflow, pre-shipment checks, and engineering risks.
 
 ## About This Repository
 
-These short technical guides focus on practical manufacturing concepts and engineering decisions. Each article is maintained as a separate Markdown file, with references to more detailed resources where relevant.
+A collection of concise engineering references covering injection molding, mold manufacturing, CNC machining, 3D printing, materials, and design for manufacturability. Guides are organized by topic, with additional sections added as articles become available.
