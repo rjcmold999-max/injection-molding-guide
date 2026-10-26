@@ -7,15 +7,12 @@ Export injection molds require more than accurate machining. They must fit the c
 The process typically follows six main stages, with adjustments and additional trials when necessary.
 
 ```mermaid
-flowchart TD
-    A[DFM and Mold Design] --> B[CNC and EDM Machining]
-    B --> C[Inspection and Finishing]
-    C --> D[Mold Assembly]
-    D --> E[Mold Trial]
-    E --> F{Approved?}
-    F -- No --> G[Adjust and Retest]
-    G --> E
-    F -- Yes --> H[Export Preparation]
+flowchart LR
+    A["DFM & Design"] --> B["CNC & EDM"] --> C["Inspection & Finishing"]
+    C --> D["Assembly"] --> E["Mold Trial"]
+    E --> F{"Approved?"}
+    F -- "No" --> G["Adjust & Retest"] --> E
+    F -- "Yes" --> H["Export Preparation"]
 ```
 
 ## Key Manufacturing Stages
